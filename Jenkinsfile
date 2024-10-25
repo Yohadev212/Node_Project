@@ -6,7 +6,7 @@ pipeline {
             steps {
                 script {
                     if (!fileExists('nodejs.org')) {
-                        sh 'sudo git clone https://github.com/abdelrahmanonline4/nodejs.org'
+                        sh 'sudo git clone https://github.com/Yohadev212/Node_Project.git'
                     } else {
                         dir('nodejs.org') {
                             sh 'sudo git fetch'
@@ -34,7 +34,7 @@ pipeline {
         stage('Build Docker Image') {
             steps {
                 dir('nodejs.org') {
-                    sh 'sudo docker build -t bedomm180/nodejs.org -f Dockerfile .'
+                    sh 'sudo docker build -t ymedhat/nodejs.org2 -f Dockerfile .'
                 }
             }
         }
