@@ -56,8 +56,6 @@ After writing the Docker File and Jenkins File, enter the Jenkins GUI, create a 
 
 ![image](https://github.com/user-attachments/assets/f6da31f4-bf85-40cb-8af3-0bd99acc6c3c)
 
-# ensure now DockerHub
-![image](https://github.com/user-attachments/assets/aa6088c5-be78-494c-bb02-6374f033c875)
 
 
 # Another VM for Minikube and kubectl and Argocd
