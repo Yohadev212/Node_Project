@@ -44,7 +44,7 @@ After writing the Docker File and Jenkins File, enter the Jenkins GUI, create a 
 
 ![image](https://github.com/user-attachments/assets/a0cad970-d2e0-4f12-972c-e0f1d26bb446)
 
-![image](https://github.com/user-attachments/assets/15aa3211-3a24-42ac-9b9d-a82dcef5df8a)
+
 
 
 ![image](https://github.com/user-attachments/assets/0937d2d8-16fb-4a8b-b837-b3ffdb453e20)
